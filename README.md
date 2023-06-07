@@ -1,3 +1,5 @@
+
+<img src="https://i.imgur.com/nfkTvVN.gif" style="width:100%;opacity:0.3;"></img>
 <h1 align="center">Hi I'm LUL 👋</h1>
 <h3 align="center">Developer | LUL </h3>
 <p align="center">
